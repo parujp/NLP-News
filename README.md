@@ -4,15 +4,15 @@ The objective of my project was to categorize news articles. I downloaded a data
 
 My dataset has the following features:
 
-  1.Title: headline
+  1. Title: headline
   
-  2.Media: Blog/News
+  2. Media: Blog/News
   
-  3.Content: Article
+  3. Content: Article
   
-  4.Timestamp: Published date and time
+  4. Timestamp: Published date and time
   
-  5.Source: source of article
+  5. Source: source of article
 
 The two main roadblocks I had to doing meaningful topic modeling/clustering were:
 
@@ -29,11 +29,11 @@ I tried topic modeling with LDA, but it was not as insightful as the clustering 
 
 The categories, my model was successful in detecting:
 
-Politics/Policy
+1. Politics/Policy
 
-International
+2. International
 
-Sports
+3. Sports
 
-Finance
+4. Finance
 
